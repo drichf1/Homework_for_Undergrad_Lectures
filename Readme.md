@@ -1,1 +1,16 @@
 Hello! This repository is a collection of PDF files of homework and tests (along with syllabi and rubrics) for the introductory physics courses at Baruch College, taught by Dan Richford. Here are the contents:
+
+  1. Syllabus     (Physics 2002-L, Fall 2017, Baruch College, C.U.N.Y)
+  2. Homework 1   (Kinematics)
+  3. Homework 2   (Newton's Laws)
+  4. Homework 3   (Circular Motion)
+  5. Homework 3.5 (Energy)
+  6. Homework 4   (Energy and Momentum)
+  7. Homework 5   (Rotations)
+  8. Homework 6   (Fluids)
+  9. Homework 7   (Heat and Thermodynamics)
+ 10. Homework 8   (Waves & Sound)
+ 11. Homework 9   (Special Relativity)
+ 12. Test 1       (Kinematics, Newton's Laws, Circular Motion)
+ 13. Test 2       (Energy, Momentum Rotations, Fluids)
+ 14. Test 3       (Heat and Thermodynamics, Waves and Sound, Relativity)
